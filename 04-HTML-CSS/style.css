@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    /* no matter padding added the set width of a box will remain the same, subtracting from width, not adding */
+}
+
+body {
+    background-color: rgb(166, 166, 223);
+    padding: 50px;
+}
+
+h1 {
+    margin-bottom: 25px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
